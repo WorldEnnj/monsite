@@ -1,0 +1,9 @@
+#services >div >div {
+    color: red;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 50px;
+}
+.row{
+    justify-content: space-around;
+}
